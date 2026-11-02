@@ -8,7 +8,7 @@
     "test": "grunt jshint"
   },
   "devDependencies": {
-    "grunt": "~0.4.0",
+    "grunt": "~1.6.3",
     "grunt-autoprefixer": "^2.0.0",
     "grunt-aws-s3": "^0.9.4",
     "grunt-contrib-clean": "~0.4.0",
